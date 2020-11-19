@@ -1,0 +1,21 @@
+{
+  "name": "@rutherford/eslint-config",
+  "version": "1.1.0",
+  "main": ".eslintrc.js",
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "Ethan Rutherford",
+  "license": "ISC",
+  "dependencies": {
+    "eslint-plugin-react": "^7.18.2"
+  },
+  "peerDependencies": {
+    "eslint": ">= 6"
+  },
+  "description": "",
+  "devDependencies": {
+    "eslint": ">= 6"
+  }
+}
