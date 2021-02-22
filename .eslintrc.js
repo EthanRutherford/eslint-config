@@ -154,6 +154,7 @@ module.exports = {
 		"react/no-unknown-property": 2,
 		"react/no-unsafe": 2,
 		"react/prefer-es6-class": 2,
+		"react/react-in-jsx-scope": 0,
 		"react/require-render-return": 2,
 		"react/self-closing-comp": 2,
 		"react/void-dom-elements-no-children": 2,
@@ -186,6 +187,7 @@ module.exports = {
 			afterOpening: "never",
 			beforeClosing: "never",
 		}],
+		"react/jsx-uses-react": 0,
 		"react/jsx-uses-vars": 2,
 		"react/jsx-wrap-multilines": [2, {
 			declaration: "parens-new-line",
