@@ -1,6 +1,6 @@
 {
   "name": "@rutherford/eslint-config",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "main": ".eslintrc.js",
   "keywords": [
     "eslint",
@@ -9,6 +9,8 @@
   "author": "Ethan Rutherford",
   "license": "ISC",
   "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.45.0",
+    "@typescript-eslint/parser": "^5.45.0",
     "eslint-plugin-react": "^7.28.0"
   },
   "peerDependencies": {
